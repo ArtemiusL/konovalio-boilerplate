@@ -1,0 +1,150 @@
+/* Cocogoose */
+
+@font-face {
+  font-family: 'Cocogoose';
+  src:  url(./Cocogoose-Regular.ttf);
+  font-display: block;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cocogoose';
+  src:  url(./Cocogoose-DemiBold.ttf);
+  font-display: block;
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cocogoose';
+  src:  url(./Cocogoose-Light.ttf);
+  font-display: block;
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cocogoose';
+  src:  url(./Cocogoose-Ultralight.ttf);
+  font-display: block;
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cocogoose-Inline';
+  src:  url(./Cocogoose-Inline.ttf);
+  font-display: block;
+  font-weight: normal;
+  font-style: normal;
+}
+/* Nunito */
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-Regular.ttf);
+  font-display: block;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-Black.ttf);
+  font-display: block;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-BlackItalic.ttf);
+  font-display: block;
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-Bold.ttf);
+  font-display: block;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-BoldItalic.ttf);
+  font-display: block;
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-ExtraBold.ttf);
+  font-display: block;
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-ExtraBoldItalic.ttf);
+  font-display: block;
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-ExtraLight.ttf);
+  font-display: block;
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-ExtraLightItalic.ttf);
+  font-display: block;
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-Italic.ttf);
+  font-display: block;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-Light.ttf);
+  font-display: block;
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-LightItalic.ttf);
+  font-display: block;
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-SemiBold.ttf);
+  font-display: block;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src:  url(./Nunito-SemiBoldItalic.ttf);
+  font-display: block;
+  font-weight: 600;
+  font-style: italic;
+}
+
+

@@ -1,0 +1,9 @@
+{
+  "javascript.validate.enable": false,
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
+  "cSpell.language": "en,es,es-ES",
+  "cSpell.words": ["Gazprom"]
+}
